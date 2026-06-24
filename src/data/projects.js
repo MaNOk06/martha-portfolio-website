@@ -1,6 +1,3 @@
-// Your selected work. Reorder, edit, or add freely.
-// status options: 'live', 'building', 'shipped', or a year like '2026'.
-
 export const projects = [
   {
     index: '001',
@@ -59,7 +56,6 @@ export const projects = [
       'Lost and Found system instead of using traditional emails',
     role: 'Solo build',
     stack: ['React', 'Vite', 'Supabase', 'PWA'],
-    link: '#',
   },
 ]
 

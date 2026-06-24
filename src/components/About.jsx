@@ -17,7 +17,7 @@ export default function About() {
                 I am Martha, a computer engineering student in Ghana and a
                 builder at heart.
               </span>{' '}
-              I vibe code my way from idea to shipped, and almost everything I
+              I program my way from idea to shipped, and almost everything I
               make starts from a real problem I have watched people around me
               run into.
             </p>
@@ -30,7 +30,7 @@ export default function About() {
           </div>
           <div className="about-aside">
             When I am not building, you will find me on the volleyball court,
-            writing serialized fiction, coaching robotics, or at church on
+            writing fiction, or simulating robots, or at church on
             Sundays and Fridays.
           </div>
         </div>
