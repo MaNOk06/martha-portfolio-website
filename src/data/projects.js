@@ -60,7 +60,7 @@ export const projects = [
 ]
 
 export const buildStyle =
-  'I am a <span className="hl">programmer</span> at heart. I move fast with AI as my pair programmer, ship real things, and pick up the deeper details as I go.'
+  'I am a programmer at heart. I move fast with AI as my pair programmer, ship real things, and pick up the deeper details as I go.'
 
 export const toolkit = [
   {

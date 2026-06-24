@@ -8,7 +8,7 @@ export default function Toolkit() {
       <div ref={reveal.ref} className={`shell ${reveal.className}`}>
         <p className="eyebrow">how i build</p>
         <p className="build-intro">
-          I am a <span className="hl">vibe coder</span> at heart. I move fast
+          I am a <span className="hl">programmer</span> at heart. I move fast
           with AI as my pair programmer, ship real things, and pick up the deep
           parts as I go.
         </p>
