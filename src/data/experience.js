@@ -1,7 +1,3 @@
-// Your experience, grouped into tabs. Edit, reorder, add, or remove entries.
-// Each tab has a key (the button label) and a list of entries.
-// An entry: { role, org, time, blurb }. Anything in CAPS is a placeholder.
-
 export const experience = [
   {
     key: 'Work & internships',

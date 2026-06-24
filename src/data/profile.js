@@ -2,7 +2,7 @@ export const profile = {
   firstName: 'Martha Naa',
   lastName: 'Okailey Afful',
   // The roles cycle in the hero. Add or remove freely.
-  roles: ['computer engineer', 'builder', 'vibe coder', 'founder'],
+  roles: ['computer engineer', 'builder', 'programer', 'founder'],
   tagline:
     'Computer engineering student at Ashesi University, Ghana. I turn "someone should build this" into things people actually use, from health data to robotics.',
   status: {
